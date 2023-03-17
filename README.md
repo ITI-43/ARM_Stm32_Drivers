@@ -5,5 +5,5 @@
 
 1-To commit only on your branch.  
 
-#2-Do NOT commit on the Master branch.  (واخد بالك ) 
+# 2-Do NOT commit on the Master branch.  (واخد بالك ) 
 
